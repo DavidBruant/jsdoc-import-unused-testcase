@@ -1,6 +1,5 @@
 /** @import {DossierPhase} from './API_Pitchou.d.ts' */
 
-/** */
 function id(x) {
     return x
 }
