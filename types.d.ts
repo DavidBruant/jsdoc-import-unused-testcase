@@ -1,1 +1,1 @@
-export type DossierPhase = 'a' | 'b'
+export type ImportedType = 'a' | 'b'
