@@ -1,6 +1,6 @@
 //@ts-check
 
-/** @import {DossierPhase} from '../types/API_Pitchou.d.ts'*/
+/** @import {DossierPhase} from './API_Pitchou.d.ts'*/
   
 /**
  *
