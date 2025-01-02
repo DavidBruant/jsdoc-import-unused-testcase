@@ -4,7 +4,7 @@
       "scripts/**/*.ts", 
       "scripts/**/*.d.ts",
       "outils/**/*.js"
-, "affichageDossier.js"    ],
+, "code.js"    ],
     "exclude": [
       "node_modules", 
       "scripts/import-dossiers-historiques/nouvelle-aquitaine/**/*.js",
