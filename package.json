@@ -6,8 +6,6 @@
     "node": "20"
   },
   "devDependencies": {
-    "typescript": "^5.5.3"
-  },
-  "dependencies": {
+    "typescript": "^5.7.2"
   }
 }
